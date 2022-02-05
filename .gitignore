@@ -21,3 +21,17 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+#Backend
+.cache/
+.coverage
+*.sqlite3
+*.pyc
+.env
+demo/
+
+#AWS
+AWSCLIV2.pkg
+credentials
+
